@@ -1,18 +1,3 @@
-<script>//<![CDATA[
-jQuery(document).ready(function($) {
-
-
- 
- // Flex Slider
-    jQuery('.flexslider').flexslider({
-  animation: "slide",
-  controlNav: false,
- });
- 
- 
-});
-//]]></script>
-<script>//<![CDATA[
 /*
  * jQuery FlexSlider v2.2.0
  * Copyright 2012 WooThemes
@@ -1141,4 +1126,3 @@ jQuery(document).ready(function($) {
     }
   }
 })(jQuery);
-//]]></script>
